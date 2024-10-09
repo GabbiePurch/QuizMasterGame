@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Quiz Master.sln"
+    "dotnet.defaultSolution": "QuizMasterGame.sln"
 }
