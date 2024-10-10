@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: New Question 1
   m_EditorClassIdentifier: 
   question: Which Dog Is Most Likely Used By Policemen?
+  answers:
+  - Dalmation
+  - Golden Retrevier
+  - German Shepard
+  - Yorkie
+  correctAnswerIndex: 2
