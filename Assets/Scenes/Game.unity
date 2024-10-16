@@ -692,7 +692,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timeToCompleteQuestion: 30
   timeToShowCorrectAnswer: 10
+  loadNextQuestion: 0
   isAnsweringQuestion: 0
+  fillFraction: 0
 --- !u!4 &702609035
 Transform:
   m_ObjectHideFlags: 0
@@ -1118,6 +1120,7 @@ MonoBehaviour:
   - {fileID: 2049962035}
   defualtAnswerSprite: {fileID: 21300000, guid: 502ddb582ad65ba4d9b34ad04470f310, type: 3}
   correctAnswerSprite: {fileID: 21300000, guid: f209c83e88e4b054d8550d4581e8f526, type: 3}
+  timerImage: {fileID: 722951489}
 --- !u!1 &1187554558
 GameObject:
   m_ObjectHideFlags: 0
