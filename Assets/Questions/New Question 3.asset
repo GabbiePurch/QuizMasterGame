@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: New Question 3
   m_EditorClassIdentifier: 
   question: Which Dog Is The Smallest?
+  answers:
+  - Yorkie
+  - French Bulldog
+  - Mini Pinscher
+  - Mini Australian Shepherd
+  correctAnswerIndex: 0
