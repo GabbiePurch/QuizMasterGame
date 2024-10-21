@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 public class Timer : MonoBehaviour
 {
     [SerializeField] float timeToCompleteQuestion = 30f;
-    [SerializeField] float timeToShowCorrectAnswer = 10f;
+    [SerializeField] float timeToShowCorrectAnswer = 5f;
     public bool loadNextQuestion;
     public bool isAnsweringQuestion = false;
     public float fillFraction;
